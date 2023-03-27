@@ -1,0 +1,1 @@
+# automated-formatted-pdf-discovery
